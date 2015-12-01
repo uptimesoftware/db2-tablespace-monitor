@@ -11,7 +11,7 @@ database
 
 ### Version Compatibility
 
-
+* DB2 Buffer Pool Monitor 3.0 - 7.3,7.4,7.5,7.6
   
 * DB2 Buffer Pool Monitor 1.0 - 6.0, 5.5, 5.4, 5.3, 5.2
   
@@ -25,7 +25,7 @@ Note: It is not supported for QAS databases.
 
 ### Supported Monitoring Stations
 
-6.0, 5.5, 5.4, 5.3, 5.2
+7.3,7.4,7.5,7.6, 6.0, 5.5, 5.4, 5.3, 5.2
 
 ### Supported Agents
 None; no agent required
